@@ -2,10 +2,10 @@
  
 ## Introduction
 
-### 1.1 Overview
+### Overview
 The mobile application industry is rapidly advancing, with Android OS being the most widely used platform. Android, based on a Linux kernel, offers high flexibility and customization, making it dominant. Android applications are programmed in Java, supported by the Google Android SDK and existing Java IDEs. Cross-platform approaches ensure applications can be deployed across various platforms without platform-dependent coding.
 
-### 1.2 Problem Statement
+### Problem Statement
 Current meeting scheduling methods lack user-friendly interfaces, fail to comprehensively consider participants' availability, and lack seamless calendar integration. This leads to scheduling conflicts, wasted time, and reduced productivity. A mobile application is needed to simplify scheduling, analyze availability, suggest optimal meeting times, and seamlessly integrate with calendars to streamline the scheduling process.
 
 ### Android Studio
@@ -17,13 +17,13 @@ Projects in Android Studio contain modules with source code and resource files, 
 
 ## System Requirements
 
-### 2.1 Software Requirements
+### Software Requirements
 Software requirements include defining software resource requirements and prerequisites for optimal application functioning. Required software for the application includes:
 - Operating System: Windows 10
 - Java Development Kit
 - Android Studio
 
-### 2.2 Hardware Requirements
+### Hardware Requirements
 Hardware requirements include physical computer resources needed for optimal application functioning:
 - CPU: Intel or AMD processor
 - Cores: Dual-Core (Quad-Core recommended)
