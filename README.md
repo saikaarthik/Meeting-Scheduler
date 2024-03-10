@@ -15,20 +15,3 @@ Android Studio is the official Integrated Development Environment (IDE) for Andr
 ### Project Structure
 Projects in Android Studio contain modules with source code and resource files, including Android app modules, library modules, and Google App Engine modules. Each app module contains manifest and java folders.
 
-## System Requirements
-
-### Software Requirements
-Software requirements include defining software resource requirements and prerequisites for optimal application functioning. Required software for the application includes:
-- Operating System: Windows 10
-- Java Development Kit
-- Android Studio
-
-### Hardware Requirements
-Hardware requirements include physical computer resources needed for optimal application functioning:
-- CPU: Intel or AMD processor
-- Cores: Dual-Core (Quad-Core recommended)
-- RAM: minimum 4GB (>4GB recommended)
-- Graphics: Intel Integrated Graphics or AMD Equivalent
-- Display Resolution: 1366x768 (1920x1080 recommended)
-
-This README provides an overview of the project, its problem statement, details about Android Studio, and system requirements necessary for running the application.
